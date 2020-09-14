@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ShapeOverlayView.touchesBegan(_:with:):ShapeOverlayView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "touches.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SheetView.initViews():SheetView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "sheet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SheetScrollView.display(sheet:):SheetScrollView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sheet.image.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
